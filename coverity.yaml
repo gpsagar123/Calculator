@@ -1,0 +1,4 @@
+capture:
+ build:
+  clean-command: dotnet clean "Calculate.csproj"
+  build-command: dotnet build "Calculate.csproj" --configuration Debug
