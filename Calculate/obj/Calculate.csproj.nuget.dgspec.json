@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\Tomcat\\Downloads\\Calculate\\Calculate\\Calculate.csproj",
         "projectName": "Calculate",
         "projectPath": "C:\\Users\\Tomcat\\Downloads\\Calculate\\Calculate\\Calculate.csproj",
-        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Tomcat\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Tomcat\\Downloads\\Calculate\\Calculate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tomcat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

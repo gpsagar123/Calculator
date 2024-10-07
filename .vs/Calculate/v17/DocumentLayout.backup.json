@@ -26,11 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -42,8 +46,7 @@
               "RelativeToolTip": "Calculate\\LinqPerformanceIssue.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAAG8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T11:01:46.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T11:01:46.67Z"
             },
             {
               "$type": "Document",
@@ -53,7 +56,7 @@
               "RelativeDocumentMoniker": "Calculate\\UserCredentials.cs",
               "ToolTip": "C:\\Users\\Tomcat\\Downloads\\Calculate\\Calculate\\UserCredentials.cs",
               "RelativeToolTip": "Calculate\\UserCredentials.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T10:47:23.9Z",
               "EditorCaption": ""
@@ -68,16 +71,7 @@
               "RelativeToolTip": "Calculate\\Calculate_ModelClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T06:05:32.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2024-09-23T06:05:32.805Z"
             },
             {
               "$type": "Document",
@@ -89,8 +83,7 @@
               "RelativeToolTip": "Calculate\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T10:29:21.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T10:29:21.504Z"
             }
           ]
         }

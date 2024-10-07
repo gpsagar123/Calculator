@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Calculate
+namespace Calculate.Model
 {
     public class LinqPerformanceIssue
     {
@@ -74,15 +74,15 @@ namespace Calculate
 
 
     public class UnreleasedResources
+    {
+        public void WriteToFile(string fileName, string content)
         {
-            public void WriteToFile(string fileName, string content)
-            {
-                FileStream fileStream = new FileStream(fileName, FileMode.Create);
-                StreamWriter writer = new StreamWriter(fileStream);
-                writer.WriteLine(content);
-                // Stream and file not disposed or closed
-            }
+            FileStream fileStream = new FileStream(fileName, FileMode.Create);
+            StreamWriter writer = new StreamWriter(fileStream);
+            writer.WriteLine(content);
+            // Stream and file not disposed or closed
         }
+    }
 
     public class NonThreadSafeExample
     {
