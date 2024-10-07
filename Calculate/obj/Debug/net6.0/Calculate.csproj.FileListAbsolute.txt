@@ -35,6 +35,7 @@ C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.Generat
 C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.AssemblyInfoInputs.cache
 C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.AssemblyInfo.cs
 C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.sourcelink.json
 C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.dll
 C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\refint\Calculate.dll
 C:\Users\Tomcat\Downloads\Calculate\Calculate\obj\Debug\net6.0\Calculate.pdb

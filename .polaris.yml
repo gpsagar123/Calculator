@@ -1,8 +1,0 @@
-project:
-  name: "Sensus FieldLogic"
-source:
-  include:
-    - "**/*.cs"      # Include all C# files
-  exclude:
-    - "**/bin/**"    # Exclude binary directories
-    - "**/obj/**"    # Exclude build output directories
