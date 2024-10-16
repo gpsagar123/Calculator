@@ -1,0 +1,4 @@
+capture:
+  build:
+  files:
+    - exclude-regex: ^.*\\Model\\.*$
