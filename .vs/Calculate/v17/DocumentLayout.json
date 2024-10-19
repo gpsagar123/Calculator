@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tomcat\\Downloads\\Git_Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92294D33-FB30-4E9F-A18B-55FB7AE66AF6}|Calculate\\Calculate.csproj|c:\\users\\tomcat\\downloads\\git_sample\\calculate\\others\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92294D33-FB30-4E9F-A18B-55FB7AE66AF6}|Calculate\\Calculate.csproj|solutionrelative:calculate\\others\\temp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92294D33-FB30-4E9F-A18B-55FB7AE66AF6}|Calculate\\Calculate.csproj|c:\\users\\tomcat\\downloads\\git_sample\\calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92294D33-FB30-4E9F-A18B-55FB7AE66AF6}|Calculate\\Calculate.csproj|solutionrelative:calculate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Temp.cs",
+              "DocumentMoniker": "C:\\Users\\Tomcat\\Downloads\\Git_Sample\\Calculate\\Others\\Temp.cs",
+              "RelativeDocumentMoniker": "Calculate\\Others\\Temp.cs",
+              "ToolTip": "C:\\Users\\Tomcat\\Downloads\\Git_Sample\\Calculate\\Others\\Temp.cs",
+              "RelativeToolTip": "Calculate\\Others\\Temp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:58:24.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tomcat\\Downloads\\Git_Sample\\Calculate\\Program.cs",
+              "RelativeDocumentMoniker": "Calculate\\Program.cs",
+              "ToolTip": "C:\\Users\\Tomcat\\Downloads\\Git_Sample\\Calculate\\Program.cs",
+              "RelativeToolTip": "Calculate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:57:07.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NetworkConfiguration>
+	<FlexNetNetwork>
+		<Name>Arqiva Water</Name>
+		<NormalChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>694</Channel>
+			<Modulation />
+			<FecType />
+		</NormalChannel>
+		<CnIChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>699</Channel>
+			<Modulation />
+			<FecType />
+		</CnIChannel>
+		<PriorityChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>697</Channel>
+			<Modulation />
+			<FecType />
+		</PriorityChannel>
+		<BoostChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>697</Channel>
+			<Modulation />
+			<FecType />
+		</BoostChannel>
+		<MPassChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>2294</Channel>
+			<Modulation />
+			<FecType />
+		</MPassChannel>
+		<MPass2Channel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>2298</Channel>
+			<Modulation />
+			<FecType />
+		</MPass2Channel>
+		<VGBChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>0</Channel>
+			<Modulation />
+			<FecType />
+		</VGBChannel>
+		<NA2WAlarmChannel>
+			<IsMAS>False</IsMAS>
+			<BaseFrequency>0</BaseFrequency>
+			<Channel>0</Channel>
+			<Modulation />
+			<FecType />
+		</NA2WAlarmChannel>
+		<UtilityCode>0</UtilityCode>
+		<MPass2DataRate>10 kbps</MPass2DataRate>
+		<ToneStyle>NA2W12_5k</ToneStyle>
+		<ASKProhibited>False</ASKProhibited>
+		<FlexNetProtocol>FNv1</FlexNetProtocol>
+	</FlexNetNetwork>
+	<RadioReadNetwork null="true" />
+	<NBIoTNetwork null="true" />
+	<NetworkDefinitionToolVersion null="true" />
+</NetworkConfiguration>
+2zHRSA==
