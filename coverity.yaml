@@ -1,6 +1,9 @@
 capture:
+  build:
+    clean-command: dotnet clean
+    build-command: dotnet build --configuration Debug
   compiler-configuration:
-    cov-configure:
+    cov-configure: 
       - [--cs, --xml-option, skip_file:.*(Model|Others|Temp_Files).*]
   fs-capture:
     - "**/*.cs"
