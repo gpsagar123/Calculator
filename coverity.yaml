@@ -4,4 +4,4 @@ capture:
     build-command: dotnet build --configuration Debug
   compiler-configuration:
     cov-configure: 
-    - [--cs, --xml-option, skip_file:.*Calculate/Model.*]
+      - [--cs, --xml-option, skip_file:.*Calculate/(Model|Others).*]
