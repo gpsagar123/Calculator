@@ -1,4 +1,6 @@
 capture:
   compiler-configuration:
-    cov-configure: 
+    cov-configure:
       - [--cs, --xml-option, skip_file:.*(Model|Others|Temp_Files).*]
+  fs-capture:
+    - "**/*.cs"
