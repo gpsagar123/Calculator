@@ -1,5 +1,7 @@
 capture:
   build:
+    clean-command:
+    build-command:
   compiler-configuration:
     cov-configure: 
       - [--cs, --xml-option, skip_file:.*(Model|Others|Temp_Files).*]
