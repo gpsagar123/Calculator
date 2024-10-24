@@ -1,5 +1,4 @@
 capture:
-  build:
   compiler-configuration:
     cov-configure: 
-    - [--cs, --xml-option, skip_file:.*Calculate/Model.*]
+      - [--cs, --xml-option, skip_file:.*(Model|Others|Temp_Files).*]
