@@ -1,7 +1,5 @@
 capture:
   build:
-    clean-command: dotnet clean
-    build-command: dotnet build --configuration Debug
   compiler-configuration:
     cov-configure: 
-      - [--cs, --xml-option, skip_file:.*Calculate/(Model|Others).*]
+      - [--cs, --xml-option, skip_file:.*(Model|Others|Temp_Files).*]
