@@ -1,0 +1,118 @@
+<Playlist Version="2.0">
+  <Rule Name="Includes" Match="Any">
+    <Rule Match="All">
+      <Property Name="Solution" />
+      <Rule Match="Any">
+        <Rule Match="All">
+          <Property Name="Project" Value="FieldLogicCloudAdmin.Nunit.Tests" />
+          <Rule Match="Any">
+            <Rule Match="All">
+              <Property Name="Namespace" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers" />
+              <Rule Match="Any">
+                <Rule Match="All">
+                  <Property Name="Class" Value="Customers" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.Customers.CreateCustomerButton" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CreateCustomerButton" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.Customers.CustomersTable" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CustomersTable" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.Customers.CustomersSorting" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CustomersSorting" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.Customers.CustomersHyperLinks" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CustomersHyperLinks" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CreateCustomer" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CreateCustomer.CreateCustomerForm" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CreateCustomerForm" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CreateCustomer.CloseModal" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CloseModal" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CreateCustomer.FieldErrors" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="FieldErrors" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CreateCustomer.CreateCustomerValidation" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CreateCustomerValidation" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CreateCustomer.CreateCustomerWithoutUserValidation" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CreateCustomerWithoutUserValidation" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+                <Rule Match="All">
+                  <Property Name="Class" Value="CustomerDetails" />
+                  <Rule Match="Any">
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CustomerDetails.BackButton" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="BackButton" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CustomerDetails.EditCustomerButton" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="EditCustomerButton" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CustomerDetails.CustomerDetailsValidation" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="CustomerDetailsValidation" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CustomerDetails.Sorting" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="Sorting" />
+                      </Rule>
+                    </Rule>
+                    <Rule Match="All">
+                      <Property Name="TestWithNormalizedFullyQualifiedName" Value="FieldLogicCloudAdmin.Nunit.Tests.PlayWright.Customers.CustomerDetails.AddUserButton" />
+                      <Rule Match="Any">
+                        <Property Name="DisplayName" Value="AddUserButton" />
+                      </Rule>
+                    </Rule>
+                  </Rule>
+                </Rule>
+              </Rule>
+            </Rule>
+          </Rule>
+        </Rule>
+      </Rule>
+    </Rule>
+  </Rule>
+</Playlist>
